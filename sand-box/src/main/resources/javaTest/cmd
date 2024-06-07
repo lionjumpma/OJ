@@ -1,0 +1,2 @@
+java -cp . Main 1 2
+javac -encoding utf-8 .\Main.java
